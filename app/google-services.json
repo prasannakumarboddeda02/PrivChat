@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825220412645",
+    "project_id": "privchat-24915",
+    "storage_bucket": "privchat-24915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825220412645:android:83e57bd63fb94beb1e500c",
+        "android_client_info": {
+          "package_name": "com.illegal.privchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825220412645-tijvnu656clkuj79r6l1ognhp70t2qnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAs2FlE6hPZFoD1_ecDuMwhb4g1kuQ57o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825220412645-tijvnu656clkuj79r6l1ognhp70t2qnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
